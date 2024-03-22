@@ -1,5 +1,5 @@
 import Image from "next/image";
-import qrCode from "../assets/image-qr-code.png";
+import qrCode from "../../public/assets/image-qr-code.png";
 
 export default function Home() {
   return (
