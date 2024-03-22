@@ -10,7 +10,7 @@ export default function Home() {
           <strong className="text-xl text-dark-blue">
             Improve your front-end skills by building projects
           </strong>
-          <p className="text-sm px-2 mt-3 text-gray">
+          <p className="text-sm px-3 mt-3 text-gray">
             Scan the QR code to visit Frontend Mentor and take your coding
             skills to the next level
           </p>
